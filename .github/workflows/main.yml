@@ -3,7 +3,7 @@ name: TEST
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   notify_on_telegram:
